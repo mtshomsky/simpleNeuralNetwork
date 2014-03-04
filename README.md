@@ -19,10 +19,10 @@ Run AWT 2D-GUI
 
 Modernization Todo:
 =========
-[ ] Remove typecasting
-[ ] add junit test (pull apart UT_adaline.java)
-[ ] Replace adalineGUI with Jetty + d3 visualization (webify the project)
+- Remove typecasting
+- add junit test (pull apart UT_adaline.java)
+- Replace adalineGUI with Jetty + d3 visualization (webify the project)
 
 Training Todo:
 =========
-[ ] Add additional networks
+- Add additional networks
