@@ -20,7 +20,7 @@ Why this library:
 Why not this library:
 
 - There are faster better implementations of neural networks out there, this was merely for personal exploration.
-
+- This lib was for architecture exploration of a common NN
 
 
 Run Tests 
@@ -36,6 +36,7 @@ Modernization Todo List
 - Remove typecasting
 - add junit test (pull apart UT_adaline.java)
 - Replace adalineGUI with Jetty + d3 visualization (webify the project)
+- ant
 
 Training Todo List
 =========
